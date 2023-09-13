@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194201447928",
+    "project_id": "texter-op",
+    "storage_bucket": "texter-op.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194201447928:android:278094bd48210897533a0d",
+        "android_client_info": {
+          "package_name": "com.daniel.texterop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194201447928-v2kaeq0g4g7buu44a3eeai5u9m8n97o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBABUGVpyogV9HLVgKxge4X45md6dpRzck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194201447928-v2kaeq0g4g7buu44a3eeai5u9m8n97o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
